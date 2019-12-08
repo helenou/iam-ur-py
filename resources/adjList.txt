@@ -130,7 +130,6 @@ Mysterious
 Tired
 Cautious
 Fine
-N
 Tough
 Charming
 Foolish
@@ -182,8 +181,6 @@ Outstanding
 Vivacious
 Cooperative
 Good
-P
-W
 Courageous
 Gorgeous
 Panicky
